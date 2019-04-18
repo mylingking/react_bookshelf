@@ -8,10 +8,14 @@ HTML, CSS, JavaScript (ES6), React, React Routers, Babel, NPM
 
 ## How to Start
 
+This project is boostrapped by `create-react-app`.
+
 To get started developing right away:
 
-- install all project dependencies with `npm install`
-- start the development server with `npm start`
+- install all project dependencies in the console with below command: 
+`npm install`
+- start the development server with:
+`npm start`
 - wait the browser to open or type http://localhost:3000/ in your browser to view the project
 
 ## Notes
