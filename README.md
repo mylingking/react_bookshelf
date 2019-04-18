@@ -1,4 +1,4 @@
-#React Book Shelf
+# React Book Shelf
 
 This is a single page app which can search for a book using public API and store the book in the "Currently Reading", "Reading", and "Want To Read" shelf. The shelf state is stored both locally and on server side, and allows user to set the reading state of each book by selecting an option in a select menu.
 
